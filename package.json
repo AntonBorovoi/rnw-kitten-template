@@ -22,7 +22,7 @@
     "html-webpack-plugin": "^4.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-native": "0.62.1",
+    "react-native": "0.62.3",
     "react-native-svg": "^12.1.0",
     "react-native-web": "^0.12.2",
     "webpack": "^4.42.1",
